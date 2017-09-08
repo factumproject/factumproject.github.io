@@ -1,2 +1,2 @@
 # factumproject.github.io
-Public Site
+Public Web Site
