@@ -1,0 +1,27 @@
+- name: bluebuzz me
+  link: https://www.bluebuzz.me
+  icon: assets/img/Places_Places-02.png
+- name: Dr Reminder
+  link: https://www.drreminder.com
+  icon: assets/img/Places_Places-02.png
+- name: food cliques
+  link: https://www.foodcliques.com
+  icon: assets/img/Places_Places-02.png
+- name: Golf Average
+  link: https://www.golfaverage.com
+  icon: assets/img/Places_Places-02.png
+- name: PsiWorlds
+  link: https://www.psiworlds.com
+  icon: assets/img/Places_Places-02.png
+- name: Seeking Attention
+  link: https://www.seekingattention.com
+  icon: assets/img/Places_Places-02.png
+- name: Shitty Art Work
+  link: https://www.shittyart.work
+  icon: assets/img/Places_Places-02.png
+- name: Simpler Views
+  link: https://www.simplerviews.com
+  icon: assets/img/Places_Places-02.png
+- name: Spontaneous Dancer
+  link: https://www.spontaneousdancer.com
+  icon: assets/img/Places_Places-02.png

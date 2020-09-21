@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Factum Project {{ page.title }}</title>
+	<link rel="stylesheet" href="./assets/css/milligram.min.css" />
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+	<header>
+		<div class="container">
+			<div class="row">
+				<div class="column column-20">
+					<a href="index.html"><img src="./assets/img/factum-project-logo-full.svg" alt="Factum Project Logo" /></a>
+				</div>
+				<div class="column column-80">
+				</div>
+			</div>
+			<hr />
+		</div>
+	</header>
+	<div class="container">
+		{{ content }}
+	</div>
+	<footer>
+		<div class="container" style="text-align:center">
+			<hr />
+			<div class="row">
+				<div class="column column-25"><a href="about.html">About</a></div>
+				<div class="column column-50">
+					<a href="https://www.facebook.com/Factum-Project-267046607062319/">Facebook</a>,
+					<a href="https://www.github.com/factumproject">Github</a>,
+					<a href="https://www.instagram.com/factumproject/">Instagram</a>,
+					<a href="https://www.linkedin.com/factumproject/">LinkedIn</a>,
+					<a href="https://www.twitter.com/factumproject">Twitter</a>
+				</div>
+				<div class="column column-25"><a href="contact.html">Contact</a></div>
+			</div>
+			<div class="row">
+				<div class="column"></div>
+				<div class="column">
+					<small>(c) {{ 'now' | date: "%Y" }} Factum Project, LLC</small>
+				</div>
+				<div class="column"></div>
+			</div>
+		</div>
+	</footer>
+</body>
+</html>
